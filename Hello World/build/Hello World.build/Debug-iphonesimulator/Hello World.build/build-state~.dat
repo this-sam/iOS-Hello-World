@@ -1,7 +1,7 @@
 THello World
 v7
 r0
-t337066750.575684
+t337065687.887897
 cCheck dependencies
 cProcessInfoPlistFile "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
 cCompileXIB "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/MainWindow.xib"
@@ -70,9 +70,9 @@ s1471
 i"Hello_WorldViewController.h"
 
 N/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_WorldViewController.xib
-c000000004E67037A00000000000044FC
-t1315373946
-s17660
+c000000004E66FF460000000000001A55
+t1315372870
+s6741
 
 N/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_World_Prefix.pch
 c000000004E66FF4600000000000000BF
@@ -87,7 +87,7 @@ t1315372870
 s20057
 
 N/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app
-t1315373950
+t1315372887
 s238
 
 N/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM
@@ -99,8 +99,8 @@ t1315372887
 s17424
 
 N/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello_WorldViewController.nib
-t1315373950
-s2110
+t1315372885
+s1269
 
 N/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist
 t1315372880
@@ -148,7 +148,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies337066750#337066750#0(0"0(0#1#0"8609974240#0"0#
+lSLF07#2@18"Check dependencies337065679#337065680#0(0"0(0#1#0"32651522506817640#0"0#
 
 CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s337065687.187213
@@ -190,12 +190,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@78"Compile /Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/main.m337065687#337065687#0(0"0(0#0#70"/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/main.m8595454240#2291"    cd "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-blfkpaxearwracdhlosjzromgaii/Hello_World_Prefix.pch -c "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/main.m" -o "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o"0#
 
 CCompileXIB "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_WorldViewController.xib"
-s337066750.091611
-e337066750.545766
+s337065680.708780
+e337065685.737462
 r1
 xCompileXIB
 x/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_WorldViewController.xib
-lSLF07#2@40"CompileXIB Hello_WorldViewController.xib337066750#337066750#0(0"0(0#0#93"/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_WorldViewController.xib8612215296#685"    cd "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello_WorldViewController.nib" "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_WorldViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+lSLF07#2@40"CompileXIB Hello_WorldViewController.xib337065680#337065685#0(0"0(0#0#93"/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_WorldViewController.xib8603293216#685"    cd "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello_WorldViewController.nib" "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_WorldViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
 
 CCompileXIB "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/MainWindow.xib"
 s337065680.598650
@@ -247,10 +247,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@33"Precompile Hello_World_Prefix.pch337065685#337065687#0(0"0(0#0#86"/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_World_Prefix.pch8610351392#2152"    cd "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -c "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/Hello_World_Prefix.pch" -o /var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-blfkpaxearwracdhlosjzromgaii/Hello_World_Prefix.pch.gch0#
 
 CTouch "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app"
-s337066750.546451
-e337066750.575626
+s337065687.858123
+e337065687.887842
 r1
 xTouch
 x/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app
-lSLF07#2@113"Touch /Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app337066750#337066750#0(0"0(0#0#0"8611040544#336"    cd "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app"0#
+lSLF07#2@113"Touch /Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app337065687#337065687#0(0"0(0#0#0"8595333152#336"    cd "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Macintosh HD 2/Development/iOS-Hello-World/Hello World/build/Debug-iphonesimulator/Hello World.app"0#
 
